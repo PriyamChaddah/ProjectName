@@ -66,6 +66,74 @@
         <item>5-10 years</item>
         <item>10+ years</item>
     </string-array>
+    <string-array name="numbers">
+        <item>Education Qualification</item>
+        <item>10</item>
+        <item>12</item>
+        <item>Undergraduate</item>
+        <item>Postgraduate</item>
+        <item>Doctorate</item>
+        <item>Diploma</item>
+    </string-array>
+
+    <string-array name="numbers2">
+        <item>Location Preference</item>
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Kolkata</item>
+        <item>Chennai</item>
+        <item>Bengaluru</item>
+        <item>Hyderabad</item>
+        <item>Chandigarh</item>
+        <item>Jaipur</item>
+        <item>Dispur</item>
+        <item>Itanagar</item>
+        <item>Patna</item>
+        <item>Raipur</item>
+        <item>Jammu</item>
+
+        <item>Shimla</item>
+
+
+        <item>Dehradun</item>
+        <item>Lucknow</item>
+        <item>Bhopal</item>
+        <item>Gandhi Nagar</item>
+
+        <item>Panaji</item>
+
+        <item>Tiruvananthapuram</item>
+
+        <item>Bhubaneshwar</item>
+        <item>Ranchi</item>
+
+        <item>Gangtok</item>
+        <item>Shillong</item>
+        <item>Agartala</item>
+        <item>Imphal</item>
+        <item>Kohima</item>
+        <item>Aizawal</item>
+    </string-array>
+
+    <string-array name="numbers3">
+        <item>Specialisation</item>
+        <item>Computer Science</item>
+        <item>Information Technology</item>
+        <item>Electronics and Communication</item>
+        <item>Electrical</item>
+        <item>Electrical and Instrumentation </item>
+        <item>Mechanical</item>
+        <item>Civil Engineering</item>
+        <item>Chemical</item>
+        <item>Aeronautical</item>
+        <item>Agricultural</item>
+        <item>Mining engineering</item>
+        <item>Biochemical</item>
+
+        <item>Metallurgical</item>
+    </string-array>
+
+    <string name="title_activity_login">Sign in</string>
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
     <string name="action_sign_in_short">Sign in</string>
@@ -82,11 +150,11 @@
     <string name="action_password">Password</string>
     <string name="about_us">\nWe are a team of students from NITK developing and expanding an application for skilled yet jobless engineers to find their dream jobs as well as hone their skills for better opportunities in the future. The app also serves as a platform for employers to find skilled engineers and as a platform for training companies to get more students."
 </string>
-    <string name="title_activity_about__us">About_Us</string>
-    <string name="faq_title">\tFAQ</string>
-    <string name="faq_question1">\n   Q. What kinds of jobs can I find here?</string>
-    <string name="faq_question2">\n   Q. Can i change my profile information?</string>
-    <string name="faq_answer1">\n  A. Jobs in any field of engineering ranging\n from information technology to aviation\n engineering can be found.\n</string>
-    <string name="faq_answer2">\n   A. Yes, all information shown on the\n dashboard can be changed.</string>
+    <string name="title_activity_about__us">About Us</string>
+    <string name="faq_title">Frequently Asked Questions</string>
+    <string name="faq_question1">Q. What kinds of jobs can I find here?</string>
+    <string name="faq_question2">Q. Can i change my profile information?</string>
+    <string name="faq_answer1">A. Jobs in any field of engineering ranging from information technology to aviation engineering can be found.</string>
+    <string name="faq_answer2">A. Yes, all information shown on the dashboard can be changed.</string>
 
 </resources>
